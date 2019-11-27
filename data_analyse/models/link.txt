@@ -1,0 +1,10 @@
+you should download model from tensorflow slim
+--model
+----inception_v3
+------inception_v3.ckpt
+----resnet_v2_50
+------eval.graph
+------resnet_v2_50.ckpt
+------train.graph
+----vgg_16
+------vgg_16.ckpt
