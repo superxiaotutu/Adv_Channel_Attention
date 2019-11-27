@@ -1,7 +1,0 @@
-secret/
-models/
-submitted_attacks/
-__pycache__/
-*.npy
-*.zip
-cifar10_data/
